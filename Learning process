@@ -1,0 +1,4 @@
+HOW TO BACK UP MY MAC USING TERMIAL ENCRYPT FILES :
+You can also use Terminal commands to encrypt files using tools like OpenSSL.
+
+Open Terminal and use commands like openssl enc -aes-256-cbc -in file.txt -out file.enc to encrypt a file using AES encryption.
